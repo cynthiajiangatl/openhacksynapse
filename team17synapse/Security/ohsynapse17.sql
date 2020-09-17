@@ -1,0 +1,2 @@
+﻿CREATE USER [ohsynapse17] FOR EXTERNAL PROVIDER;
+

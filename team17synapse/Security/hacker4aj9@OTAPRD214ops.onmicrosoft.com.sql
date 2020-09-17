@@ -1,0 +1,2 @@
+﻿CREATE USER [hacker4aj9@OTAPRD214ops.onmicrosoft.com] FOR EXTERNAL PROVIDER;
+

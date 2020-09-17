@@ -1,0 +1,30 @@
+9/17/2020 2:31:53 PM	This log contains information about the import schema operation into project 'team17synapse' on computer '006-UF0LMI8' by user 'xinjian'.
+9/17/2020 2:31:53 PM	Import of database schema has started.
+9/17/2020 2:31:59 PM	Gathering logins
+9/17/2020 2:32:01 PM	Gathering database credentials
+9/17/2020 2:32:01 PM	Gathering database options
+9/17/2020 2:32:01 PM	Gathering users
+9/17/2020 2:32:01 PM	Gathering roles
+9/17/2020 2:32:01 PM	Gathering role memberships
+9/17/2020 2:32:01 PM	Gathering symmetric keys
+9/17/2020 2:32:01 PM	Gathering schemas
+9/17/2020 2:32:01 PM	Gathering functions
+9/17/2020 2:32:01 PM	Gathering procedures
+9/17/2020 2:32:01 PM	Gathering partition table specification
+9/17/2020 2:32:01 PM	Gathering tables
+9/17/2020 2:32:04 PM	Gathering primary keys
+9/17/2020 2:32:04 PM	Gathering unique constraints
+9/17/2020 2:32:05 PM	Gathering default constraints
+9/17/2020 2:32:05 PM	Gathering views
+9/17/2020 2:32:05 PM	Gathering indexes
+9/17/2020 2:32:06 PM	Gathering statistics
+9/17/2020 2:32:06 PM	Gathering column store indexes
+9/17/2020 2:32:07 PM	Gathering external data sources
+9/17/2020 2:32:07 PM	Gathering external file formats
+9/17/2020 2:32:07 PM	Gathering external tables
+9/17/2020 2:32:10 PM	Gathering logins
+9/17/2020 2:32:11 PM	Scanning project for duplicate elements
+9/17/2020 2:32:12 PM	Finished duplicate element processing
+9/17/2020 2:32:12 PM	Finished importing database.
+9/17/2020 2:32:12 PM	A summary of the import was saved to the following location: C:\Users\xinjian\source\repos\openhacksynapse\team17synapse\Import Schema Logs\team17synapse_20200917063153.log
+9/17/2020 2:32:12 PM	Click Finish to continue...
