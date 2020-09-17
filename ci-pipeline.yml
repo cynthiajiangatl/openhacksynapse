@@ -34,7 +34,7 @@ steps:
 
 - task: CopyFiles@2
   inputs:
-    SourceFolder: '$(System.DefaultWorkingDirectory)\openhacksynapse\bin\Release'
+    SourceFolder: '$(System.DefaultWorkingDirectory)\openhacksynapse\team17synapse\bin\Release'
     Contents: '*.dacpac'
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
